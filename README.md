@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alphadotnet?tab=repositories](https://github.com/alphadotnet?tab=repositories)
 
-- 💬 Ask me about **React, Mobile**
+- 💬 Ask me about **React, Mobile(React Native, Java for Android Development)**
 
 - 📫 How to reach me **duyha10092004@gmail.com**
 
